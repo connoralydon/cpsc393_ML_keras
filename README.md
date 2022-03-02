@@ -9,3 +9,5 @@
 N/A
 
 ## A list of all references used to complete the assignment, including peers (if applicable):
+keras api
+textbook
