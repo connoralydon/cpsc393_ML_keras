@@ -9,5 +9,6 @@
 N/A
 
 ## A list of all references used to complete the assignment, including peers (if applicable):
-keras api
+[keras api](https://keras.io)
+[pandas api](https://pandas.pydata.org/docs/reference/index.html)
 textbook
